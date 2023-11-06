@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="appVocabulario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/appVocabulario_jar</output-path>
+    <root id="archive" name="appVocabulario.jar">
+      <element id="module-output" name="appVocabulario" />
+    </root>
+  </artifact>
+</component>
