@@ -144,7 +144,7 @@ public class app extends javax.swing.JFrame {
         }finally{
             // En el finally cerramos el fichero, para asegurarnos
          // que se cierra tanto si todo va bien como si salta 
-         // una excepcion.
+         // una excepcion. ..
          
             try{
                 if(fr != null)
